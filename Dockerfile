@@ -2,6 +2,7 @@ FROM microsoft/dotnet:sdk AS build-env
 WORKDIR /app
 
 #Copy cs project into distinct layers
+#simple edit
 
 COPY *.csproj ./
 RUN dotnet restore

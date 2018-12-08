@@ -1,0 +1,14 @@
+/Users/suneerpm/Work/micro-services/netcore-learn/ToDoApi/bin/Debug/netcoreapp2.2/ToDoApi.deps.json
+/Users/suneerpm/Work/micro-services/netcore-learn/ToDoApi/bin/Debug/netcoreapp2.2/ToDoApi.runtimeconfig.json
+/Users/suneerpm/Work/micro-services/netcore-learn/ToDoApi/bin/Debug/netcoreapp2.2/ToDoApi.runtimeconfig.dev.json
+/Users/suneerpm/Work/micro-services/netcore-learn/ToDoApi/bin/Debug/netcoreapp2.2/ToDoApi.dll
+/Users/suneerpm/Work/micro-services/netcore-learn/ToDoApi/bin/Debug/netcoreapp2.2/ToDoApi.pdb
+/Users/suneerpm/Work/micro-services/netcore-learn/ToDoApi/obj/Debug/netcoreapp2.2/ToDoApi.csprojAssemblyReference.cache
+/Users/suneerpm/Work/micro-services/netcore-learn/ToDoApi/obj/Debug/netcoreapp2.2/ToDoApi.csproj.CoreCompileInputs.cache
+/Users/suneerpm/Work/micro-services/netcore-learn/ToDoApi/obj/Debug/netcoreapp2.2/ToDoApi.RazorAssemblyInfo.cache
+/Users/suneerpm/Work/micro-services/netcore-learn/ToDoApi/obj/Debug/netcoreapp2.2/ToDoApi.RazorAssemblyInfo.cs
+/Users/suneerpm/Work/micro-services/netcore-learn/ToDoApi/obj/Debug/netcoreapp2.2/ToDoApi.AssemblyInfoInputs.cache
+/Users/suneerpm/Work/micro-services/netcore-learn/ToDoApi/obj/Debug/netcoreapp2.2/ToDoApi.AssemblyInfo.cs
+/Users/suneerpm/Work/micro-services/netcore-learn/ToDoApi/obj/Debug/netcoreapp2.2/ToDoApi.RazorTargetAssemblyInfo.cache
+/Users/suneerpm/Work/micro-services/netcore-learn/ToDoApi/obj/Debug/netcoreapp2.2/ToDoApi.dll
+/Users/suneerpm/Work/micro-services/netcore-learn/ToDoApi/obj/Debug/netcoreapp2.2/ToDoApi.pdb
